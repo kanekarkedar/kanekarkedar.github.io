@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<a href="./" class="btn">Home</a>
+<a href="./" class="btn" style="margin-right: 10px;">Home</a>
 <a href="./about" class="btn">About Me</a>
 
 ---
