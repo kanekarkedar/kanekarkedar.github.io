@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Home
 ---
 
 <a href="./" class="btn" style="margin-right: 10px;">Home</a>
